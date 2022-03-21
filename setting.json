@@ -1,0 +1,9 @@
+{
+    "packageName":"com.mitac.gemini.cdr",
+    "frequencyInSec":"1",
+    "enableCPU":true,
+    "enableGPU":true,
+    "enableMem":true,
+    "enableFPS":true,
+    "showAnimation":true 
+}
